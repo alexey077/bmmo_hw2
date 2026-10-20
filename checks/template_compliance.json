@@ -603,5 +603,9 @@
     }
   ],
   "no_runtime_overrides_of_template_functions": true,
-  "validation_failures": []
+  "validation_failures": [],
+  "sampling_mean": "Direct DDPM epsilon-parameterized mean in the authorized single_step placeholder",
+  "original_formula_check_tolerance_preserved": true,
+  "nonzero_known_noise_check_added": true,
+  "checks_execution_status": "not_executed_after_precision_fix; rerun check_formulas in Colab"
 }
